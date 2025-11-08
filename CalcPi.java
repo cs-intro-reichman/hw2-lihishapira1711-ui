@@ -9,7 +9,7 @@ public class CalcPi {
 				piApproximation += term;
 			}
 			piApproximation *= 4;
-			System.out.println(" pi according to java: " + Math.PI);
-			System.out.println(" pi, approximated:     " + piApproximation);
+			System.out.println("pi according to Java: " + Math.PI);
+			System.out.println("pi, approximated:     " + piApproximation);
 	}
 }
